@@ -1,0 +1,15 @@
+boto3==1.35.90
+dss==0.8
+matplotlib==3.7.1
+networkx==3.1
+numpy==1.24.2
+pandas==2.2.3
+plotly==5.24.1
+scikit_learn==1.6.0
+scipy==1.14.1
+seaborn==0.13.2
+statsmodels==0.14.1
+torch==2.0.1
+tqdm==4.65.0
+tslearn==0.6.3
+wandb==0.19.1
